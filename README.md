@@ -8,3 +8,34 @@
 [Link to depth dataset]()
 
 
+## Dataset Description
+
+### 1) Background Images
+
+![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/sample_bg.PNG)
+
+
+### 2) Foreground Images
+
+![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/sample_fg.PNG)
+
+
+### 3) Foreground Masks
+
+![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/sample_fg_mask.PNG)
+
+
+### 4) Foreground overlayed on Background
+
+![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/sample_bg.PNG)
+
+
+### 5) Mask of Foreground overlayed on Background
+
+![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/sample_bg.PNG)
+
+
+### 6) Depth map of Foreground overlayed on Background
+
+![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/sample_bg.PNG)
+
