@@ -119,4 +119,4 @@ Mean is 0.0**
 [Link](https://github.com/genigarus/DepthMaskDataset/blob/master/DepthMaskDatasetStatistics.ipynb)
 
 
-
+**Total Dataset Size = 9.27 GB (including all 6 types of images above)**
