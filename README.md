@@ -27,12 +27,12 @@
 
 ### 4) Foreground overlayed on Background
 
-![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/fg_bg.PNG)
+![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/fg_bg.png)
 
 
 ### 5) Mask of Foreground overlayed on Background
 
-![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/fg_bg_mask.PNG)
+![](https://raw.githubusercontent.com/genigarus/DepthMaskDataset/master/asset/fg_bg_mask.png)
 
 
 ### 6) Depth map of Foreground overlayed on Background
