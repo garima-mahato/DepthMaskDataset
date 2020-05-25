@@ -3,9 +3,7 @@
 
 ## Dataset Links
 
-[Link to fg_bg_mask_dataset](https://drive.google.com/file/d/11TbUmMY9mYyIeRCkh5kGGIZ-k1Vbs-Qz/view?usp=sharing)
-
-[Link to depth dataset](https://drive.google.com/open?id=1sEdl7u4VcP2dqcAR4O3VsiixNspu08RA)
+[Link to dataset](https://drive.google.com/open?id=1zQTsYCo7_p-4u_3pgNCjd7dpGFRUZIVJ)
 
 
 ## Dataset Description
